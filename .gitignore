@@ -1,0 +1,19 @@
+# Python environments and generated files
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Local data and logs
+cust-data.csv
+*.log
+
+# Locust output
+Run1
+*_stats.csv
+*_failures.csv
+*_stats_history.csv
+*_exceptions.csv
+
+# Editor temporary file
+tempCodeRunnerFile.py
